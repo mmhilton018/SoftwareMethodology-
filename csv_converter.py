@@ -1,5 +1,20 @@
+
 import sys
 import os
+
+def ro()
+     print "fjnefkvndfdfkjvnjdfjvnjkdnfvkjfnv"
+
+def to()
+    print "fnvoefnvefnjdfnvjvndfnvdf
+dffvmkdlfmvmfkvdkflmvdf
+fvmdfklmv;fmvldflvm;
+dfvdfkmvlfmvlkfmvdfmv
+vdlfmv;fmvkd;fmvdf;vmd
+dfv,;ldfmvpdkmfomvpdfvd
+vmdflmvdlfkmvdmbpfv
+dfvmdfkmvdfmvdmbdfvbdfvmkfnb;'f
+vdfmvmbkm"
 
 def read(filename):
     with open(filename, 'r') as f:
