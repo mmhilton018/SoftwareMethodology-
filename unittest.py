@@ -2,6 +2,12 @@ import unittest
 import csv_converter 
 
 class Testcsv(unittest.TestCase):
+
+
+    def test_write(self):
+
+    def test_switch(self):
+
     def test_read(self):
         self.assertisNotNone(csv_converter.read())
         
