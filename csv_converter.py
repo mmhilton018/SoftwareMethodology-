@@ -1,18 +1,28 @@
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
 
 import sys
 import os
 
-def ro()
-     print "fjnefkvndfdfkjvnjdfjvnjkdnfvkjfnv"
+Def ro()
+     Print "fjnefkvndfdfkjvnjdfjvnjkdnfvkjfnv"
 
-def to()
-    print "fnvoefnvefnjdfnvjvndfnvdf
-dffvmkdlfmvmfkvdkflmvdf
-fvmdfklmv;fmvldflvm;
-dfvdfkmvlfmvlkfmvdfmv
-vdlfmv;fmvkd;fmvdf;vmd
-dfv,;ldfmvpdkmfomvpdfvd
-vmdflmvdlfkmvdmbpfv
+Def to()
+    Print "fnvoefnvefnjdfnvjvndfnvdf
+Dffvmkdlfmvmfkvdkflmvdf
+Fvmdfklmv;fmvldflvm;
+Dfvdfkmvlfmvlkfmvdfmv
+Vdlfmv;fmvkd;fmvdf;vmd
+Dfv,;ldfmvpdkmfomvpdfvd
+Vmdflmvdlfkmvdmbpfv
 dfvmdfkmvdfmvdmbdfvbdfvmkfnb;'f
 vdfmvmbkm"
 
